@@ -8,12 +8,12 @@ body {
 }
 
 a {
-  color: #5fcf80;
-  text-decoration: none;
+  color: blue;
+/*  text-decoration: none;*/
 }
 
 a:hover {
-  color: #86db9f;
+  color: blue;
   text-decoration: none;
 }
 
@@ -30,17 +30,17 @@ h6 {
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
-  position: fixed;
-  visibility: hidden;
-  opacity: 0;
-  right: 15px;
-  bottom: 15px;
-  z-index: 996;
-  background: #5fcf80;
-  width: 40px;
-  height: 40px;
-  border-radius: 50px;
-  transition: all 0.4s;
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 15px;
+    z-index: 996;
+    background: #00a2c3;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    transition: all 0.4s;
 }
 
 .back-to-top i {
@@ -49,10 +49,10 @@ h6 {
   line-height: 0;
 }
 
-.back-to-top:hover {
-  background: #7ed899;
-  color: #fff;
-}
+    .back-to-top:hover {
+        background: #6ed0e5;
+        color: #fff;
+    }
 
 .back-to-top.active {
   visibility: visible;
@@ -217,12 +217,13 @@ h6 {
   margin-left: 5px;
 }
 
-.navbar a:hover,
-.navbar .active,
-.navbar .active:focus,
-.navbar li:hover>a {
-  color: #5fcf80;
-}
+    .navbar a:hover,
+    .navbar .active,
+    .navbar .active:focus,
+    .navbar li:hover > a {
+        color:  #00a2c3;
+        
+    }
 
 .navbar .dropdown ul {
   display: block;
@@ -575,11 +576,11 @@ section {
   padding-bottom: 10px;
 }
 
-.about .content ul i {
-  font-size: 20px;
-  padding-right: 4px;
-  color: #5fcf80;
-}
+    .about .content ul i {
+        font-size: 20px;
+        padding-right: 4px;
+        color: #00a2c3;
+    }
 
 .about .content .learn-more-btn {
   background: #5fcf80;
@@ -1564,23 +1565,23 @@ section {
   color: #5fcf80;
 }
 
-#footer .social-links a {
-  font-size: 18px;
-  display: inline-block;
-  background: #5fcf80;
-  color: #fff;
-  line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 50%;
-  text-align: center;
-  width: 36px;
-  height: 36px;
-  transition: 0.3s;
-}
+    #footer .social-links a {
+        font-size: 18px;
+        display: inline-block;
+        background: #00a2c3;
+        color: #fff;
+        line-height: 1;
+        padding: 8px 0;
+        margin-right: 4px;
+        border-radius: 50%;
+        text-align: center;
+        width: 36px;
+        height: 36px;
+        transition: 0.3s;
+    }
 
-#footer .social-links a:hover {
-  background: #3ac162;
-  color: #fff;
-  text-decoration: none;
-}
+        #footer .social-links a:hover {
+            background: #6ed0e5;
+            color: #fff;
+            text-decoration: none;
+        }

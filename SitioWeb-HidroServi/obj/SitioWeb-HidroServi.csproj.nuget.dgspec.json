@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basti\\source\\repos\\SitioWeb-HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj": {}
+    "C:\\Users\\basti\\Desktop\\HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basti\\source\\repos\\SitioWeb-HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj": {
+    "C:\\Users\\basti\\Desktop\\HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basti\\source\\repos\\SitioWeb-HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj",
+        "projectUniqueName": "C:\\Users\\basti\\Desktop\\HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj",
         "projectName": "SitioWeb-HidroServi",
-        "projectPath": "C:\\Users\\basti\\source\\repos\\SitioWeb-HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj",
+        "projectPath": "C:\\Users\\basti\\Desktop\\HidroServi\\SitioWeb-HidroServi\\SitioWeb-HidroServi.csproj",
         "packagesPath": "C:\\Users\\basti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basti\\source\\repos\\SitioWeb-HidroServi\\SitioWeb-HidroServi\\obj\\",
+        "outputPath": "C:\\Users\\basti\\Desktop\\HidroServi\\SitioWeb-HidroServi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
